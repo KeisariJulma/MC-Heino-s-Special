@@ -1,0 +1,40 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 17, 2022, 4:05:10 PM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#immersiveengineering:drill_fuel
+- #forge:biodiesel
+
+#forge:ethanol
+- immersiveengineering:ethanol
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+
+#forge:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:redstone_acid
+- immersiveengineering:redstone_acid
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#forge:concrete
+- immersiveengineering:concrete
+
+#forge:potion
+- immersiveengineering:potion
+
+#forge:plantoil
+- immersiveengineering:plantoil
