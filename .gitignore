@@ -8,6 +8,7 @@
 /screenshots
 /structurize
 /shaderpacks
+/config/jei
 /config/jei-client.toml
 options.txt
 usercache.json
@@ -15,3 +16,4 @@ usernamecache.json
 reauth.toml
 knownkeys.txt
 optionsof.txt
+
