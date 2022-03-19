@@ -5,8 +5,12 @@
 /journeymap
 /logs
 /schematics
+/screenshots
+/structurize
+/shaderpacks
 options.txt
 usercache.json
 usernamecache.json
 reauth.toml
 knownkeys.txt
+optionsof.txt
