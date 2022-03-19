@@ -8,7 +8,7 @@ settings.logErroringRecipes = true
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
 onEvent('recipes', event => {
-	// Change recipes here
+	event.remove({id: 'beyond_earth:steel_ingot_blasting'})
 })
 
 onEvent('item.tags', event => {
