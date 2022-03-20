@@ -1,0 +1,14 @@
+{
+  "name": "Minecraft 1.18.1 with Forge",
+  "pack": "Minecraft",
+  "packId": 0,
+  "version": "1.18.1",
+  "isPatchedForLog4Shell": true,
+  "javaVersion": {
+    "component": "java-runtime-beta",
+    "majorVersion": 17
+  },
+  "isDev": false,
+  "mods": [],
+  "ignoredUpdates": []
+}
